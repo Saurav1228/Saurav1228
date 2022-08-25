@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saurav</h1>
-<h3 align="center">A passionate blockchain developer</h3>
+<h3 align="center">Blockchain developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav1228&label=Profile%20views&color=0e75b6&style=flat" alt="saurav1228" /> </p>
 
